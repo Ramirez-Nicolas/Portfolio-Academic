@@ -1,3 +1,11 @@
+Portfolio de Nicolas Ramirez.
+
+Étudiant en Informatique à l'Université Paris 8, je suis actuellement en 3ème année de BUT Informatique. Fort de deux années d'expérience en alternance en tant que concepteur développeur, j'ai acquis une solide expertise dans la création et la mise en œuvre de solutions informatiques innovantes.
+
+
+
+🔗 Lien : https://ramirez-nicolas.github.io
+
 
 
 
